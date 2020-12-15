@@ -1,0 +1,36 @@
+
+=== Mon Aug  3 17:26:21 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.1.4 to 1.2.1
+  com.unity.test-framework from version 1.1.13 to 1.1.14
+
+=== Sat Aug 29 11:50:02 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.test-framework from version 1.1.14 to 1.1.16
+
+=== Sat Sep 26 09:22:58 2020
+
+Packages were changed.
+Update Mode: mergeDefaultDependencies
+
+The following packages were added:
+  com.unity.2d.sprite@1.0.0
+  com.unity.2d.tilemap@1.0.0
+  com.unity.progrids@3.0.3-preview.4
+
+=== Mon Dec 14 23:53:31 2020
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.vscode from version 1.2.1 to 1.2.2
+  com.unity.test-framework from version 1.1.16 to 1.1.18

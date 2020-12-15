@@ -1,0 +1,2 @@
+C:\Users\ewalk\Documents\slimag\SliMAG\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\ewalk\Documents\slimag\SliMAG\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
